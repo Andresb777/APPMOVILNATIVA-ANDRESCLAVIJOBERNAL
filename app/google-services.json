@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536744125603",
+    "project_id": "gestorandres-6e5e3",
+    "storage_bucket": "gestorandres-6e5e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536744125603:android:cfcfb80ccfc3dcddd34b16",
+        "android_client_info": {
+          "package_name": "com.andres.trabajouniversidad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC722kr_5WpaEBcLLBnPvCxeoq6LTPYM5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
