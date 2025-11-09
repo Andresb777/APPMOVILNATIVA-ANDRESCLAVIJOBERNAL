@@ -135,7 +135,7 @@ public class Registrar extends AppCompatActivity {
             public void onSuccess(Void unused) {
                 progressDialog.dismiss();
                 Toast.makeText(Registrar.this,"Usuario registrado correctamente",Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(Registrar.this,DashBoard.class));
+                //startActivity(new Intent(Registrar.this,DashBoard.class));
                 finish();
 
             }
